@@ -14,4 +14,18 @@ In case the detected circle is inside a larger one, the program uses the functio
 The project was developed in MATLAB
 
 ## Example of Use
-<img src="https://github.com/ikaratsoris/circular-object-detection/tree/main/sample/bags 008.jpg?raw=true" width="30%">
+Import sample image
+<p>
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/bags_008.jpg" width="30%">
+<p>
+Export images
+<p>
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/01.bmp" width="30%">
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/02.bmp" width="30%">
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/03.bmp" width="30%">
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/04.bmp" width="30%">
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/05.bmp" width="30%">
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/06.bmp" width="30%">
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/07.bmp" width="30%">
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/08.bmp" width="30%">
+<img src="https://github.com/ikaratsoris/circular-object-detection/blob/main/sample/09.bmp" width="30%">
