@@ -14,4 +14,4 @@ In case the detected circle is inside a larger one, the program uses the functio
 The project was developed in MATLAB
 
 ## Example of Use
-<img src="https://github.com/ikaratsoris/circular-object-detection/tree/main/sample/bags 008.jpg" width="30%" height="30%">
+<img src="https://github.com/ikaratsoris/circular-object-detection/tree/main/sample/bags 008.jpg?raw=true" width="30%">
