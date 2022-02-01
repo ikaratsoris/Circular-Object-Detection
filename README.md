@@ -1,5 +1,5 @@
 # Circular Object Detection
-Computer Vision MATLAB project for detecting circular objects and classifying them based on their radius.
+Computer Vision MATLAB project for detecting circular objects and classifying them based on their radii.
 
 ## General info
 This project was created to detect circular objects on oil images taken from a microscope. It mainly uses the circular Hough transform (imfindcircles).
